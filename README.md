@@ -36,5 +36,3 @@ sudo virsh net-autostart default
 ```
 systemctl reboot
 ```
-
-Or reboot using your GUI.
